@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "bundleVersion": "1.0.3",
-  "generatedAt": "2026-07-24T05:48:47Z",
+  "bundleVersion": "1.0.5",
+  "generatedAt": "2026-08-17T07:49:57Z",
   "files": [
     {
       "path": "arcs.json",
@@ -510,13 +510,17 @@
     },
     {
       "path": "characters.json",
-      "bytes": 373525,
-      "sha256": "3ce462b2ddb6899a09b210a7218308d27f561eec43b9c2e675a043ddfbefda9d"
+      "bytes": 374193,
+      "sha256": "5d9fa77ad297201e81976ac9d8c4fa5d9b9b2dca2c7bd4ce6ff217731318229d"
     },
     {
       "path": "glossary.json",
-      "bytes": 211517,
-      "sha256": "c1a9e78503f261ca073868391d943f5bd05b16a3178c26e95915e8f63df393cb"
+      "bytes": 213870,
+      "sha256": "44fb4924229c095cef552d55d50aa30c26c329edf90180ef66881a425303bf36"
     }
-  ]
+  ],
+  "signature": {
+    "algorithm": "ed25519",
+    "value": "CyyFOHnloj7YFvJpce+qKOVaw9+EwmDJ0+n2WH7Zg95Drwtt/fEA7qWIiq96vD6K18QOV/hE9zeAjm7HZhF+Aw=="
+  }
 }
